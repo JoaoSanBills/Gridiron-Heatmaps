@@ -1,3 +1,3 @@
 # Gridiron Heatmaps
 
-Predictor de resultados y tendencias de la NFL.
+Predictor de resultados, hot zones y tendencias de la NFL.
